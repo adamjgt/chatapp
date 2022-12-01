@@ -1,0 +1,22 @@
+{
+    "uid" : "",
+    "name" : "",
+    "email" : "",
+    "creationTime" : "",
+    "lastSignInTime" : "",
+    "photoUrl" : "",
+    "status" : "",
+    "updatedTime" : "",
+    "chats" : [
+        {
+            "connection" : "",
+            "chat_id" : "",
+            "lastTime" : ""
+        },
+        {
+            "connection" : "",
+            "chat_id" : "",
+            "lastTime" : ""
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "connection" : [
+        
+            "",
+            ""
+        
+    ],
+    "total_chats" : 10,
+    "total_read" : 8,
+    "total_unread" : 2,
+    "chat" : [
+        {
+            "pengirim" : "",
+            "penerima" : "",
+            "pesan" : "",
+            "time" : "",
+            "isread" : true
+        },
+        {
+            "pengirim" : "",
+            "penerima" : "",
+            "pesan" : "",
+            "time" : "",
+            "isread" : true
+        }
+    ],
+    "lastTime" : ""
+}
